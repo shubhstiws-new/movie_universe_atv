@@ -1,0 +1,122 @@
+[
+  {
+    "id": 85271,
+    "title": "WandaVision",
+    "overview": "Wanda Maximoff and Vision\u2014two super-powered beings living idealized suburban lives\u2014begin to suspect that everything is not as it seems.",
+    "first_air_date": "2021-01-15",
+    "vote_average": 8.204,
+    "number_of_seasons": 1,
+    "number_of_episodes": 9,
+    "local_poster_path": "Data/posters/wandavision_2021.jpg",
+    "type": "tv",
+    "phase": "Phase Four"
+  },
+  {
+    "id": 88396,
+    "title": "The Falcon and the Winter Soldier",
+    "overview": "Following the events of \u201cAvengers: Endgame\u201d, the Falcon, Sam Wilson and the Winter Soldier, Bucky Barnes team up in a global adventure that tests their abilities, and their patience.",
+    "first_air_date": "2021-03-19",
+    "vote_average": 7.6,
+    "number_of_seasons": 1,
+    "number_of_episodes": 6,
+    "local_poster_path": "Data/posters/the_falcon_and_the_winter_soldier_2021.jpg",
+    "type": "tv",
+    "phase": "Phase Four"
+  },
+  {
+    "id": 84958,
+    "title": "Loki",
+    "overview": "After stealing the Tesseract during the events of \u201cAvengers: Endgame,\u201d an alternate version of Loki is brought to the mysterious Time Variance Authority, a bureaucratic organization that exists outside of time and space and monitors the timeline. They give Loki a choice: face being erased from existence due to being a \u201ctime variant\u201d or help fix the timeline and stop a greater threat.",
+    "first_air_date": "2021-06-09",
+    "vote_average": 8.172,
+    "number_of_seasons": 2,
+    "number_of_episodes": 12,
+    "local_poster_path": "Data/posters/loki_2021.jpg",
+    "type": "tv",
+    "phase": "Phase Four"
+  },
+  {
+    "id": 88329,
+    "title": "Hawkeye",
+    "overview": "Former Avenger Clint Barton has a seemingly simple mission: get back to his family for Christmas. Possible? Maybe with the help of Kate Bishop, a 22-year-old archer with dreams of becoming a superhero. The two are forced to work together when a presence from Barton\u2019s past threatens to derail far more than the festive spirit.",
+    "first_air_date": "2021-11-24",
+    "vote_average": 7.819,
+    "number_of_seasons": 1,
+    "number_of_episodes": 6,
+    "local_poster_path": "Data/posters/hawkeye_2021.jpg",
+    "type": "tv",
+    "phase": "Phase Four"
+  },
+  {
+    "id": 92749,
+    "title": "Moon Knight",
+    "overview": "When Steven Grant, a mild-mannered gift-shop employee, becomes plagued with blackouts and memories of another life, he discovers he has dissociative identity disorder and shares a body with mercenary Marc Spector. As Steven/Marc\u2019s enemies converge upon them, they must navigate their complex identities while thrust into a deadly mystery among the powerful gods of Egypt.",
+    "first_air_date": "2022-03-30",
+    "vote_average": 7.662,
+    "number_of_seasons": 1,
+    "number_of_episodes": 6,
+    "local_poster_path": "Data/posters/moon_knight_2022.jpg",
+    "type": "tv",
+    "phase": "Phase Four"
+  },
+  {
+    "id": 92782,
+    "title": "Ms. Marvel",
+    "overview": "A great student, avid gamer, and voracious fan-fic scribe, Kamala Khan has a special affinity for superheroes, particularly Captain Marvel. However, she struggles to fit in at home and at school \u2014 that is, until she gets superpowers like the heroes she\u2019s always looked up to. Life is easier with superpowers, right?",
+    "first_air_date": "2022-06-08",
+    "vote_average": 6.3,
+    "number_of_seasons": 1,
+    "number_of_episodes": 6,
+    "local_poster_path": "Data/posters/ms._marvel_2022.jpg",
+    "type": "tv",
+    "phase": "Phase Four"
+  },
+  {
+    "id": 92783,
+    "title": "She-Hulk: Attorney at Law",
+    "overview": "Jennifer Walters navigates the complicated life of a single, 30-something attorney who also happens to be a green 6-foot-7-inch superpowered hulk.",
+    "first_air_date": "2022-08-18",
+    "vote_average": 6.142,
+    "number_of_seasons": 1,
+    "number_of_episodes": 9,
+    "local_poster_path": "Data/posters/she-hulk_attorney_at_law_2022.jpg",
+    "type": "tv",
+    "phase": "Phase Four"
+  },
+  {
+    "id": 114472,
+    "title": "Secret Invasion",
+    "overview": "Nick Fury and Talos discover a faction of shapeshifting Skrulls who have been infiltrating Earth for years.",
+    "first_air_date": "2023-06-21",
+    "vote_average": 6.557,
+    "number_of_seasons": 1,
+    "number_of_episodes": 6,
+    "local_poster_path": "Data/posters/secret_invasion_2023.jpg",
+    "type": "tv",
+    "phase": "Phase Five"
+  },
+  {
+    "id": 122226,
+    "title": "Echo",
+    "overview": "Pursued by Wilson Fisk's criminal empire, Maya's journey brings her home and she must confront her own family and legacy.",
+    "first_air_date": "2024-01-09",
+    "vote_average": 6.092,
+    "number_of_seasons": 1,
+    "number_of_episodes": 5,
+    "local_poster_path": "Data/posters/echo_2024.jpg",
+    "type": "tv",
+    "phase": "Phase Five"
+  },
+  {
+    "id": 138501,
+    "title": "Agatha All Along",
+    "overview": "Agatha Harkness gathers a coven of witches and sets off down, down, down The Witches' Road.",
+    "first_air_date": "2024-09-18",
+    "vote_average": 7.498,
+    "number_of_seasons": 1,
+    "number_of_episodes": 9,
+    "local_poster_path": "Data/posters/agatha_all_along_2024.jpg",
+    "type": "tv",
+    "phase": "Phase Five"
+  }
+]

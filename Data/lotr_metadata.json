@@ -1,0 +1,68 @@
+[
+  {
+    "id": 49051,
+    "title": "The Hobbit: An Unexpected Journey",
+    "overview": "Bilbo Baggins, a hobbit enjoying his quiet life, is swept into an epic quest by Gandalf the Grey and thirteen dwarves who seek to reclaim their mountain home from Smaug, the dragon.",
+    "release_date": "2012-12-12",
+    "vote_average": 7.364,
+    "runtime": 169,
+    "local_poster_path": "Data/posters/the_hobbit_an_unexpected_journey_2012.jpg",
+    "type": "movie",
+    "age": "Third Age"
+  },
+  {
+    "id": 57158,
+    "title": "The Hobbit: The Desolation of Smaug",
+    "overview": "The Dwarves, Bilbo and Gandalf have successfully escaped the Misty Mountains, and Bilbo has gained the One Ring. They all continue their journey to get their gold back from the Dragon, Smaug.",
+    "release_date": "2013-12-11",
+    "vote_average": 7.574,
+    "runtime": 161,
+    "local_poster_path": "Data/posters/the_hobbit_the_desolation_of_smaug_2013.jpg",
+    "type": "movie",
+    "age": "Third Age"
+  },
+  {
+    "id": 122917,
+    "title": "The Hobbit: The Battle of the Five Armies",
+    "overview": "Following Smaug's attack on Laketown, Bilbo and the dwarves try to defend Erebor's mountain of treasure from others who claim it: the men of the ruined Laketown and the elves of Mirkwood. Meanwhile an army of Orcs led by Azog the Defiler is marching on Erebor, fueled by the rise of the dark lord Sauron. Dwarves, elves and men must unite, and the hope for Middle-Earth falls into Bilbo's hands.",
+    "release_date": "2014-12-10",
+    "vote_average": 7.329,
+    "runtime": 144,
+    "local_poster_path": "Data/posters/the_hobbit_the_battle_of_the_five_armies_2014.jpg",
+    "type": "movie",
+    "age": "Third Age"
+  },
+  {
+    "id": 120,
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "overview": "Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home in order to keep it from falling into the hands of its evil creator. Along the way, a fellowship is formed to protect the ringbearer and make sure that the ring arrives at its final destination: Mt. Doom, the only place where it can be destroyed.",
+    "release_date": "2001-12-18",
+    "vote_average": 8.426,
+    "runtime": 179,
+    "local_poster_path": "Data/posters/the_lord_of_the_rings_the_fellowship_of_the_ring_2001.jpg",
+    "type": "movie",
+    "age": "Third Age"
+  },
+  {
+    "id": 121,
+    "title": "The Lord of the Rings: The Two Towers",
+    "overview": "Frodo Baggins and the other members of the Fellowship continue on their sacred quest to destroy the One Ring--but on separate paths. Their destinies lie at two towers--Orthanc Tower in Isengard, where the corrupt wizard Saruman awaits, and Sauron's fortress at Barad-dur, deep within the dark lands of Mordor. Frodo and Sam are trekking to Mordor to destroy the One Ring of Power while Gimli, Legolas and Aragorn search for the orc-captured Merry and Pippin. All along, nefarious wizard Saruman awaits the Fellowship members at the Orthanc Tower in Isengard.",
+    "release_date": "2002-12-18",
+    "vote_average": 8.4,
+    "runtime": 179,
+    "local_poster_path": "Data/posters/the_lord_of_the_rings_the_two_towers_2002.jpg",
+    "type": "movie",
+    "age": "Third Age"
+  },
+  {
+    "id": 122,
+    "title": "The Lord of the Rings: The Return of the King",
+    "overview": "As armies mass for a final battle that will decide the fate of the world--and powerful, ancient forces of Light and Dark compete to determine the outcome--one member of the Fellowship of the Ring is revealed as the noble heir to the throne of the Kings of Men. Yet, the sole hope for triumph over evil lies with a brave hobbit, Frodo, who, accompanied by his loyal friend Sam and the hideous, wretched Gollum, ventures deep into the very dark heart of Mordor on his seemingly impossible quest to destroy the Ring of Power.\u200b",
+    "release_date": "2003-12-17",
+    "vote_average": 8.491,
+    "runtime": 201,
+    "local_poster_path": "Data/posters/the_lord_of_the_rings_the_return_of_the_king_2003.jpg",
+    "type": "movie",
+    "age": "Third Age"
+  }
+]
