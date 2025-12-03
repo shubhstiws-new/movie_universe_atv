@@ -1,7 +1,7 @@
 # BondUniverse
 
 ## Demo
-![App Demo](https://placehold.co/600x400?text=App+Demo+Coming+Soon)
+![App Demo](demo.gif)
 
 ## Description
 A comprehensive Apple TV application for exploring the Bond Universe and beyond.
